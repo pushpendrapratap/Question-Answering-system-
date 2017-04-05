@@ -7,7 +7,7 @@ Note that the tags need not to be mutually exclusive i.e., a question can belong
 
 Data - https://archive.org/details/stackexchange
 
-## output of Q&A system (question tag prediction part) -
+### output of Q&A system (question tag prediction part) -
 https://cloud.githubusercontent.com/assets/9404205/20704556/c0e5a0fc-b645-11e6-9194-5b3fa778f08f.jpg
 
 https://cloud.githubusercontent.com/assets/9404205/20704750/7500cada-b646-11e6-8fc0-3d80417d3a1c.jpg
