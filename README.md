@@ -1,9 +1,7 @@
 # Question-Answering-system-
 
 # The search (user's question input) interface and its output...
-for the first part of the project we have only predicted all the related tags that the user's question can be in.
-We will use it in the classification of documents that will be required to retrieve proper answer to the user's query.
-Note that the tags need not to be mutually exclusive i.e., a question can belong to multiple (overlapping) tags (topics). 
+The model is predicting all the related tags that the user's question can be in. Note that the tags need not to be mutually exclusive i.e., a question can belong to multiple (overlapping) tags (topics). and then, we are retrieving the top 5 most relevant documents corresponding to that user's query.
 
 Data - https://archive.org/details/stackexchange
 
