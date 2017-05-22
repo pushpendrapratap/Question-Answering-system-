@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="1" TagName="definitions" Count="14" ExcerptPostId="105" WikiPostId="104" />
+  <row Id="2" TagName="machine-learning" Count="1113" ExcerptPostId="4909" WikiPostId="4908" />
+  <row Id="3" TagName="bigdata" Count="198" ExcerptPostId="66" WikiPostId="65" />
+  <row Id="5" TagName="data-mining" Count="349" ExcerptPostId="80" WikiPostId="79" />
+  <row Id="6" TagName="databases" Count="35" ExcerptPostId="8960" WikiPostId="8959" />
+  <row Id="8" TagName="libsvm" Count="5" ExcerptPostId="18" WikiPostId="17" />
+  <row Id="10" TagName="scalability" Count="18" />
+  <row Id="11" TagName="efficiency" Count="20" ExcerptPostId="142" WikiPostId="141" />
+  <row Id="12" TagName="performance" Count="37" />
+  <row Id="13" TagName="nosql" Count="15" ExcerptPostId="119" WikiPostId="118" />
+  <row Id="14" TagName="relational-dbms" Count="3" />
+  <row Id="15" TagName="clustering" Count="230" ExcerptPostId="145" WikiPostId="144" />
+  <row Id="16" TagName="octave" Count="5" ExcerptPostId="68" WikiPostId="67" />
+  <row Id="17" TagName="k-means" Count="74" ExcerptPostId="8958" WikiPostId="8957" />
+  <row Id="19" TagName="algorithms" Count="118" ExcerptPostId="8932" WikiPostId="8931" />
+  <row Id="21" TagName="tools" Count="30" />
+  <row Id="22" TagName="processing" Count="8" />
+  <row Id="23" TagName="hadoop" Count="72" ExcerptPostId="5840" WikiPostId="5839" />
+  <row Id="24" TagName="r" Count="400" ExcerptPostId="49" WikiPostId="48" />
+  <row Id="26" TagName="data-cleaning" Count="88" ExcerptPostId="8940" WikiPostId="8939" />
+  <row Id="27" TagName="statistics" Count="177" ExcerptPostId="3790" WikiPostId="3789" />
+  <row Id="29" TagName="distributed" Count="20" />
+  <row Id="31" TagName="neo4j" Count="5" ExcerptPostId="181" WikiPostId="180" />
+  <row Id="32" TagName="recommendation" Count="77" ExcerptPostId="4907" WikiPostId="4906" />
+  <row Id="35" TagName="information-retrieval" Count="26" />
+  <row Id="36" TagName="google" Count="7" />
+  <row Id="37" TagName="search" Count="22" />
+  <row Id="39" TagName="education" Count="24" ExcerptPostId="8276" WikiPostId="8275" />
+  <row Id="40" TagName="open-source" Count="13" />
+  <row Id="42" TagName="similarity" Count="46" />
+  <row Id="43" TagName="data-stream-mining" Count="7" ExcerptPostId="109" WikiPostId="108" />
+  <row Id="45" TagName="dimensionality-reduction" Count="42" ExcerptPostId="8975" WikiPostId="8974" />
+  <row Id="46" TagName="python" Count="435" ExcerptPostId="5523" WikiPostId="5522" />
+  <row Id="47" TagName="nlp" Count="197" ExcerptPostId="147" WikiPostId="146" />
+  <row Id="48" TagName="language-model" Count="10" />
+  <row Id="50" TagName="topic-model" Count="30" ExcerptPostId="8400" WikiPostId="8399" />
+  <row Id="51" TagName="lda" Count="20" ExcerptPostId="6763" WikiPostId="6762" />
+  <row Id="54" TagName="feature-selection" Count="100" ExcerptPostId="8936" WikiPostId="8935" />
+  <row Id="55" TagName="map-reduce" Count="23" ExcerptPostId="137" WikiPostId="136" />
+  <row Id="56" TagName="mongodb" Count="9" ExcerptPostId="178" WikiPostId="177" />
+  <row Id="59" TagName="indexing" Count="4" ExcerptPostId="152" WikiPostId="151" />
+  <row Id="60" TagName="data-indexing-techniques" Count="4" ExcerptPostId="149" WikiPostId="148" />
+  <row Id="61" TagName="dataset" Count="193" ExcerptPostId="8889" WikiPostId="8888" />
+  <row Id="62" TagName=".net" Count="4" ExcerptPostId="168" WikiPostId="167" />
+  <row Id="64" TagName="pandas" Count="63" ExcerptPostId="9185" WikiPostId="9184" />
+  <row Id="65" TagName="parallel" Count="13" />
+  <row Id="66" TagName="metadata" Count="4" />
+  <row Id="67" TagName="parsing" Count="15" />
+  <row Id="71" TagName="social-network-analysis" Count="35" ExcerptPostId="8973" WikiPostId="8972" />
+  <row Id="72" TagName="time-series" Count="139" ExcerptPostId="8904" WikiPostId="8903" />
+  <row Id="73" TagName="javascript" Count="11" />
+  <row Id="74" TagName="visualization" Count="101" ExcerptPostId="8952" WikiPostId="8951" />
+  <row Id="76" TagName="svm" Count="88" ExcerptPostId="8574" WikiPostId="8573" />
+  <row Id="77" TagName="classification" Count="370" ExcerptPostId="4911" WikiPostId="4910" />
+  <row Id="78" TagName="binary" Count="11" />
+  <row Id="80" TagName="optimization" Count="56" ExcerptPostId="8954" WikiPostId="8953" />
+  <row Id="81" TagName="neuralnetwork" Count="317" ExcerptPostId="8885" WikiPostId="8884" />
+  <row Id="82" TagName="usecase" Count="4" />
+  <row Id="83" TagName="consumerweb" Count="4" />
+  <row Id="84" TagName="parameter" Count="12" />
+  <row Id="86" TagName="clusters" Count="13" />
+  <row Id="87" TagName="aws" Count="10" />
+  <row Id="88" TagName="sklearn" Count="78" ExcerptPostId="12563" WikiPostId="12562" />
+  <row Id="90" TagName="text-mining" Count="151" ExcerptPostId="8900" WikiPostId="8899" />
+  <row Id="94" TagName="freebase" Count="3" />
+  <row Id="95" TagName="knowledge-base" Count="16" />
+  <row Id="100" TagName="confusion-matrix" Count="10" ExcerptPostId="9043" WikiPostId="9042" />
+  <row Id="101" TagName="accuracy" Count="25" />
+  <row Id="102" TagName="categorical-data" Count="46" ExcerptPostId="8977" WikiPostId="8976" />
+  <row Id="104" TagName="data-formats" Count="10" />
+  <row Id="105" TagName="hierarchical-data-format" Count="9" />
+  <row Id="108" TagName="sql" Count="18" ExcerptPostId="8990" WikiPostId="8989" />
+  <row Id="109" TagName="research" Count="15" />
+  <row Id="110" TagName="experiments" Count="12" />
+  <row Id="113" TagName="random-forest" Count="96" ExcerptPostId="8938" WikiPostId="8937" />
+  <row Id="114" TagName="logistic-regression" Count="82" ExcerptPostId="8934" WikiPostId="8933" />
+  <row Id="115" TagName="evaluation" Count="19" />
+  <row Id="116" TagName="crawling" Count="7" />
+  <row Id="119" TagName="anonymization" Count="2" />
+  <row Id="120" TagName="beginner" Count="65" ExcerptPostId="10335" WikiPostId="10334" />
+  <row Id="123" TagName="graphs" Count="56" />
+  <row Id="124" TagName="cross-validation" Count="37" ExcerptPostId="8988" WikiPostId="8987" />
+  <row Id="126" TagName="sampling" Count="25" />
+  <row Id="128" TagName="scikit" Count="108" ExcerptPostId="5896" WikiPostId="5895" />
+  <row Id="129" TagName="kaggle" Count="8" />
+  <row Id="135" TagName="gradient-descent" Count="28" />
+  <row Id="136" TagName="feature-extraction" Count="59" ExcerptPostId="10019" WikiPostId="10018" />
+  <row Id="138" TagName="state-of-the-art" Count="5" />
+  <row Id="139" TagName="career" Count="26" />
+  <row Id="143" TagName="genetic" Count="5" />
+  <row Id="144" TagName="correlation" Count="46" ExcerptPostId="8969" WikiPostId="8968" />
+  <row Id="146" TagName="error-handling" Count="7" />
+  <row Id="147" TagName="apache-pig" Count="7" />
+  <row Id="156" TagName="glm" Count="7" />
+  <row Id="157" TagName="regression" Count="122" ExcerptPostId="8906" WikiPostId="8905" />
+  <row Id="158" TagName="scala" Count="19" />
+  <row Id="159" TagName="csv" Count="12" ExcerptPostId="8992" WikiPostId="8991" />
+  <row Id="160" TagName="online-learning" Count="15" />
+  <row Id="162" TagName="unbalanced-classes" Count="28" />
+  <row Id="164" TagName="gbm" Count="18" ExcerptPostId="9096" WikiPostId="9095" />
+  <row Id="167" TagName="marketing" Count="8" />
+  <row Id="168" TagName="predictive-modeling" Count="217" ExcerptPostId="8902" WikiPostId="8901" />
+  <row Id="175" TagName="library" Count="7" />
+  <row Id="179" TagName="java" Count="24" ExcerptPostId="10021" WikiPostId="10020" />
+  <row Id="180" TagName="energy" Count="2" />
+  <row Id="184" TagName="anomaly-detection" Count="26" />
+  <row Id="185" TagName="forecast" Count="21" />
+  <row Id="186" TagName="sequence" Count="5" ExcerptPostId="9053" WikiPostId="9052" />
+  <row Id="191" TagName="hbase" Count="2" />
+  <row Id="193" TagName="tableau" Count="7" />
+  <row Id="194" TagName="deep-learning" Count="144" ExcerptPostId="8956" WikiPostId="8955" />
+  <row Id="195" TagName="ensemble-modeling" Count="17" />
+  <row Id="197" TagName="infographics" Count="3" />
+  <row Id="200" TagName="feature-scaling" Count="13" />
+  <row Id="201" TagName="apache-mahout" Count="17" />
+  <row Id="202" TagName="hive" Count="7" />
+  <row Id="205" TagName="object-recognition" Count="13" />
+  <row Id="206" TagName="hog" Count="2" />
+  <row Id="207" TagName="computer-vision" Count="22" ExcerptPostId="9205" WikiPostId="9204" />
+  <row Id="211" TagName="methods" Count="6" />
+  <row Id="212" TagName="scoring" Count="10" />
+  <row Id="213" TagName="ranking" Count="13" ExcerptPostId="9049" WikiPostId="9048" />
+  <row Id="214" TagName="sports" Count="4" />
+  <row Id="215" TagName="markov-process" Count="17" ExcerptPostId="8986" WikiPostId="8985" />
+  <row Id="216" TagName="matlab" Count="33" />
+  <row Id="217" TagName="simulation" Count="4" />
+  <row Id="218" TagName="finance" Count="5" />
+  <row Id="219" TagName="apache-spark" Count="82" ExcerptPostId="8971" WikiPostId="8970" />
+  <row Id="220" TagName="linear-regression" Count="67" ExcerptPostId="8887" WikiPostId="8886" />
+  <row Id="222" TagName="version-control" Count="2" />
+  <row Id="223" TagName="convnet" Count="32" ExcerptPostId="12581" WikiPostId="12580" />
+  <row Id="224" TagName="image-classification" Count="51" />
+  <row Id="225" TagName="untagged" Count="2" ExcerptPostId="10135" WikiPostId="10134" />
+  <row Id="226" TagName="software-development" Count="5" />
+  <row Id="227" TagName="rstudio" Count="4" />
+  <row Id="229" TagName="programming" Count="9" />
+  <row Id="232" TagName="notation" Count="2" />
+  <row Id="233" TagName="terminology" Count="19" ExcerptPostId="9059" WikiPostId="9058" />
+  <row Id="234" TagName="barplot" Count="2" />
+  <row Id="235" TagName="sas" Count="9" ExcerptPostId="9051" WikiPostId="9050" />
+  <row Id="236" TagName="hyperparameter" Count="10" />
+  <row Id="237" TagName="survival-analysis" Count="8" ExcerptPostId="9045" WikiPostId="9044" />
+  <row Id="238" TagName="discriminant-analysis" Count="3" ExcerptPostId="9106" WikiPostId="9105" />
+  <row Id="239" TagName="multiclass-classification" Count="42" />
+  <row Id="240" TagName="books" Count="7" />
+  <row Id="243" TagName="genetic-algorithms" Count="7" />
+  <row Id="244" TagName="featurization" Count="4" />
+  <row Id="249" TagName="decision-trees" Count="62" />
+  <row Id="250" TagName="self-study" Count="6" />
+  <row Id="251" TagName="named-entity-recognition" Count="13" />
+  <row Id="254" TagName="bioinformatics" Count="6" ExcerptPostId="9098" WikiPostId="9097" />
+  <row Id="255" TagName="data" Count="74" />
+  <row Id="261" TagName="multitask-learning" Count="2" ExcerptPostId="6442" WikiPostId="6441" />
+  <row Id="266" TagName="word-embeddings" Count="28" ExcerptPostId="6614" WikiPostId="6613" />
+  <row Id="269" TagName="software-recommendation" Count="11" ExcerptPostId="9057" WikiPostId="9056" />
+  <row Id="271" TagName="preprocessing" Count="31" />
+  <row Id="272" TagName="multilabel-classification" Count="18" ExcerptPostId="6780" WikiPostId="6779" />
+  <row Id="273" TagName="reference-request" Count="22" ExcerptPostId="9055" WikiPostId="9054" />
+  <row Id="274" TagName="julia" Count="3" ExcerptPostId="12599" WikiPostId="12598" />
+  <row Id="276" TagName="loss-function" Count="10" />
+  <row Id="278" TagName="ggplot2" Count="7" />
+  <row Id="279" TagName="normalization" Count="14" />
+  <row Id="280" TagName="weighted-data" Count="10" />
+  <row Id="281" TagName="feature-construction" Count="13" />
+  <row Id="282" TagName="supervised-learning" Count="43" ExcerptPostId="9047" WikiPostId="9046" />
+  <row Id="283" TagName="descriptive-statistics" Count="8" ExcerptPostId="9104" WikiPostId="9103" />
+  <row Id="284" TagName="aggregation" Count="5" />
+  <row Id="286" TagName="c" Count="3" />
+  <row Id="287" TagName="missing-data" Count="16" />
+  <row Id="288" TagName="markov" Count="4" />
+  <row Id="289" TagName="expectation-maximization" Count="2" ExcerptPostId="9102" WikiPostId="9101" />
+  <row Id="290" TagName="distance" Count="13" ExcerptPostId="12579" WikiPostId="12578" />
+  <row Id="291" TagName="cosine-distance" Count="9" />
+  <row Id="293" TagName="learning" Count="4" />
+  <row Id="298" TagName="ipython" Count="7" />
+  <row Id="299" TagName="anaconda" Count="2" />
+  <row Id="301" TagName="numerical" Count="3" />
+  <row Id="302" TagName="history" Count="3" />
+  <row Id="303" TagName="outlier" Count="10" ExcerptPostId="12561" WikiPostId="12560" />
+  <row Id="304" TagName="unsupervised-learning" Count="31" ExcerptPostId="9094" WikiPostId="9093" />
+  <row Id="305" TagName="probability" Count="17" />
+  <row Id="307" TagName="autoencoder" Count="10" ExcerptPostId="8674" WikiPostId="8673" />
+  <row Id="310" TagName="backpropagation" Count="18" />
+  <row Id="311" TagName="theano" Count="27" />
+  <row Id="312" TagName="fuzzy-logic" Count="5" />
+  <row Id="313" TagName="weka" Count="13" />
+  <row Id="315" TagName="scraping" Count="16" />
+  <row Id="317" TagName="xgboost" Count="31" ExcerptPostId="12577" WikiPostId="12576" />
+  <row Id="319" TagName="data-wrangling" Count="10" />
+  <row Id="320" TagName="data-product" Count="3" />
+  <row Id="321" TagName="tensorflow" Count="40" ExcerptPostId="9183" WikiPostId="9182" />
+  <row Id="322" TagName="excel" Count="4" />
+  <row Id="323" TagName="semi-supervised-learning" Count="5" />
+  <row Id="324" TagName="keras" Count="32" ExcerptPostId="9251" WikiPostId="9250" />
+  <row Id="325" TagName="azure-ml" Count="6" ExcerptPostId="9253" WikiPostId="9252" />
+  <row Id="327" TagName="machine-translation" Count="3" />
+  <row Id="328" TagName="data-imputation" Count="5" />
+  <row Id="329" TagName="gensim" Count="12" ExcerptPostId="10237" WikiPostId="10236" />
+  <row Id="330" TagName="lsi" Count="3" />
+  <row Id="331" TagName="model-selection" Count="12" />
+  <row Id="332" TagName="feature-engineering" Count="29" />
+  <row Id="333" TagName="hinge-loss" Count="1" ExcerptPostId="9986" WikiPostId="9985" />
+  <row Id="334" TagName="stata" Count="2" />
+  <row Id="335" TagName="text" Count="9" />
+  <row Id="337" TagName="json" Count="6" />
+  <row Id="340" TagName="reinforcement-learning" Count="25" ExcerptPostId="9674" WikiPostId="9673" />
+  <row Id="341" TagName="q-learning" Count="5" ExcerptPostId="9676" WikiPostId="9675" />
+  <row Id="342" TagName="google-prediction-api" Count="4" />
+  <row Id="344" TagName="ab-test" Count="15" />
+  <row Id="345" TagName="nltk" Count="20" ExcerptPostId="10023" WikiPostId="10022" />
+  <row Id="346" TagName="apache-kafka" Count="3" />
+  <row Id="347" TagName="pybrain" Count="4" />
+  <row Id="348" TagName="word2vec" Count="27" ExcerptPostId="12733" WikiPostId="12732" />
+  <row Id="351" TagName="convergence" Count="2" />
+  <row Id="352" TagName="pgm" Count="3" ExcerptPostId="9830" WikiPostId="9829" />
+  <row Id="354" TagName="parameter-estimation" Count="11" />
+  <row Id="356" TagName="bayesian-networks" Count="11" />
+  <row Id="358" TagName="orange" Count="20" ExcerptPostId="9921" WikiPostId="9920" />
+  <row Id="359" TagName="churn" Count="6" />
+  <row Id="360" TagName="naive-bayes-classifier" Count="19" ExcerptPostId="9984" WikiPostId="9983" />
+  <row Id="361" TagName="image-recognition" Count="18" ExcerptPostId="10017" WikiPostId="10016" />
+  <row Id="362" TagName="market-basket-analysis" Count="5" />
+  <row Id="363" TagName="association-rules" Count="11" />
+  <row Id="364" TagName="audio-recognition" Count="4" />
+  <row Id="365" TagName="rbm" Count="9" ExcerptPostId="10129" WikiPostId="10128" />
+  <row Id="366" TagName="interpolation" Count="1" ExcerptPostId="10137" WikiPostId="10136" />
+  <row Id="367" TagName="recommender-system" Count="30" />
+  <row Id="368" TagName="regularization" Count="8" />
+  <row Id="369" TagName="template" Count="1" />
+  <row Id="370" TagName="dbscan" Count="5" />
+  <row Id="372" TagName="pca" Count="17" />
+  <row Id="373" TagName="randomized-algorithms" Count="2" />
+  <row Id="374" TagName="rnn" Count="22" ExcerptPostId="10591" WikiPostId="10590" />
+  <row Id="376" TagName="labels" Count="2" />
+  <row Id="377" TagName="tsne" Count="4" />
+  <row Id="378" TagName="manifold" Count="2" />
+  <row Id="379" TagName="vowpal-wabbit" Count="1" />
+  <row Id="380" TagName="stanford-nlp" Count="4" ExcerptPostId="10929" WikiPostId="10928" />
+  <row Id="382" TagName="dropout" Count="2" />
+  <row Id="383" TagName="training" Count="13" />
+  <row Id="384" TagName="wit.ai" Count="1" />
+  <row Id="385" TagName="ipyparallel" Count="1" />
+  <row Id="386" TagName="amazon-ml" Count="3" />
+  <row Id="388" TagName="geospatial" Count="5" ExcerptPostId="11343" WikiPostId="11342" />
+  <row Id="389" TagName="sequential-pattern-mining" Count="7" />
+  <row Id="390" TagName="traminer" Count="1" />
+  <row Id="391" TagName="sqlite" Count="1" />
+  <row Id="392" TagName="arff" Count="1" />
+  <row Id="393" TagName="gpu" Count="7" />
+  <row Id="394" TagName="magento" Count="1" />
+  <row Id="395" TagName="jaccard-coefficient" Count="1" />
+  <row Id="396" TagName="pyspark" Count="21" />
+  <row Id="397" TagName="jupyter" Count="6" />
+  <row Id="398" TagName="sentiment-analysis" Count="7" />
+  <row Id="399" TagName="bloom-filter" Count="1" />
+  <row Id="400" TagName="torch" Count="3" />
+  <row Id="401" TagName="competitions" Count="2" />
+  <row Id="402" TagName="overfitting" Count="4" />
+  <row Id="403" TagName="powerbi" Count="2" />
+  <row Id="405" TagName="computational-linguistics" Count="1" />
+  <row Id="407" TagName="prediction" Count="11" />
+  <row Id="408" TagName="feature" Count="1" />
+  <row Id="409" TagName="score" Count="3" />
+  <row Id="410" TagName="encoding" Count="2" />
+  <row Id="411" TagName="spss" Count="2" />
+  <row Id="412" TagName="gaussian" Count="3" />
+  <row Id="415" TagName="mutual-information" Count="2" />
+  <row Id="416" TagName="bayesian" Count="5" />
+  <row Id="417" TagName="bernoulli-distribution" Count="1" />
+  <row Id="419" TagName="taxonomy" Count="1" />
+  <row Id="422" TagName="etl" Count="2" />
+  <row Id="425" TagName="pygrametl" Count="1" />
+  <row Id="426" TagName="master-algorithm" Count="2" />
+  <row Id="427" TagName="graphical-model" Count="1" />
+  <row Id="428" TagName="conditional-random-field" Count="1" />
+  <row Id="429" TagName="background-net" Count="1" />
+  <row Id="431" TagName="concordance" Count="1" />
+  <row Id="432" TagName="actuarial" Count="1" />
+  <row Id="433" TagName="cnmem" Count="1" ExcerptPostId="13383" WikiPostId="13382" />
+  <row Id="434" TagName="domain-adaptation" Count="1" />
+  <row Id="435" TagName="import" Count="1" />
+  <row Id="436" TagName="export" Count="1" />
+</tags>
