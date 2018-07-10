@@ -1,0 +1,24 @@
+# Compiled source
+###########################
+*.pyc
+
+
+# pycharm generated files
+###########################
+.idea
+__pycache__
+.cache
+
+# pickle files or trained ML models file
+pkl_files/*
+.ipynb_checkpoints/
+*.h5
+*.log
+
+# pre-trained word embeddings
+GoogleNews-vectors-negative300.bin
+glove/
+
+# exception to the rule
+!pkl_files/.gitkeep
+
